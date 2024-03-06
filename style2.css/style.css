@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+.pagina1{
+  display: flex;
+  justify-content: space-between;
+    .btn{
+        margin: 40%;
+    }
+}
+.titulo{
+    font-size: px;
+    display: inline-block;
+    background: linear-gradient(to bottom, white 50%, #939393 45%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Inria Serif", serif;
+}
+
+p{
+    color: gold;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+}
+
+.text{
+    border-color: aliceblue;
+    outline: none;
+    background-color: black;
+    color: white;
+}
+
+.text2{
+    border-color: aliceblue;
+    outline: none;
+    background-color: black;
+    width:66px;
+   color: white;
+}
+
+.text3{
+    border-color: aliceblue;
+    outline: none;
+    background-color: black;
+    width:40px;
+    color: white;
+}
+
+
+
+
+
+
+
